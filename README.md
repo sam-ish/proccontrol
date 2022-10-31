@@ -1,4 +1,4 @@
-# proccontrol
+# ProcControl
 
 **proccontrol** is library that makes it easy to build REST based dynamic process controllers. It was developed while building a project at work and it has since found its use in other projects.
 
